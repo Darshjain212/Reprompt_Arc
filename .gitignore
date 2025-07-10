@@ -1,0 +1,5 @@
+# Ignore test folder
+test/
+
+# Ignore Python bytecode cache folder
+__pycache__/
